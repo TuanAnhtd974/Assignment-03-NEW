@@ -1,0 +1,18 @@
+@media screen and (max-width: 575px) {
+  .flex-esm-column {
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 20px;
+  }
+  .border-custom-navbar {
+    border: 0px solid #000;
+  }
+  .border-bottom {
+    border-bottom: 1px solid #d6c08d !important;
+  }
+}
+@media screen and (max-width: 280px) {
+  body {
+    width: 280px;
+  }
+}
